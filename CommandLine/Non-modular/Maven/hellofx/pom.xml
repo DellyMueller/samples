@@ -22,7 +22,7 @@
   <dependency>
     <groupId>org.openjfx</groupId>
     <artifactId>javafx-controls</artifactId>
-    <version>20</version>
+    <version>17</version>
   </dependency>
 </dependencies>
     <!-- Uncomment for cross-platform fat jar-->
